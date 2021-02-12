@@ -7,11 +7,11 @@ El control de versiones, es la práctica de rastrear y administrar cambios en el
 
 Con mucho, el sistema de control de versiones moderno más utilizado en el mundo actual es Git. Git es un sistema de control de versiones distribuido. Este es un proyecto de código abierto maduro y mantenido activamente desarrollado originalmente en 2005 por Linus Torvalds, el famoso creador del kernel del sistema operativo Linux. Un número asombroso de proyectos de software confían en Git para el control de versiones, incluidos proyectos comerciales y de código abierto.
 
-A continuacion se referencian una serie de artículos para llevar tu trabajo de git en equipo a otro nivel
+A continuacion se referencian una serie de artículos para profundizar en git y llevar tu trabajo de git en equipo a otro nivel
 
 ## Deshaciendo Cambios
 - https://www.atlassian.com/git/tutorials/undoing-changes
-
+- https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting
 ## Git Rebase
 - https://docs.github.com/en/github/using-git/about-git-rebase
 - https://docs.github.com/en/github/using-git/using-git-rebase-on-the-command-line
